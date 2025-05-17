@@ -12,19 +12,19 @@ This project implements a **Restaurant Recommendation System (RRS)** using colla
 ## Installation
 
 1. Clone the repository or download the notebook:
-   \`\`\`bash
+   ```
    git clone <your-repo-url>
-   \`\`\`
+   ```
 
 2. Install the required Python libraries:
-   \`\`\`bash
+   ```
    pip install pandas numpy scikit-learn matplotlib seaborn
-   \`\`\`
+   ```
 
 3. Open the Jupyter Notebook:
-   \`\`\`bash
+```
    jupyter notebook RRS.ipynb
-   \`\`\`
+   ```
 
 ## Usage
 
