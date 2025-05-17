@@ -1,6 +1,6 @@
 # Restaurant Recommendation System
 
-This project implements a **Restaurant Recommendation System (RRS)** using collaborative and/or content-based filtering approaches in a Jupyter Notebook environment. It is designed to analyze restaurant data and recommend the most relevant options based on user preferences or restaurant features.
+This project implements a **Restaurant Recommendation System (RRS)** using collaborative and/or content-based filtering approaches in a Jupyter/Colab Notebook environment. It is designed to analyze restaurant data(Yelp Datasets) and recommend the most relevant options based on user preferences or restaurant features.
 
 ## Features
 
