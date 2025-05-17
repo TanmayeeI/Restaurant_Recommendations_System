@@ -6,7 +6,7 @@ This project implements a **Restaurant Recommendation System (RRS)** using colla
 
 - Processes and analyzes restaurant datasets.
 - Implements recommendation logic using Python.
-- Visualizes results through plots (if included in the notebook).
+- Visualizes results through plots.
 - Offers modular code for easy adaptation to other datasets.
 
 ## Installation
